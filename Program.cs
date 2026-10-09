@@ -142,3 +142,4 @@ string category = age switch {
     >= 65 => "Пенсионер"
 };
 Console.WriteLine(category);
+//1
